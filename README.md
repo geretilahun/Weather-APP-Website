@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Weather APP Website
 
 # Weather APP Website
 Weather APP website is a simple real weather streaming developed by Geremu Tilahun.
